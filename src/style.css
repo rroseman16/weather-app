@@ -15,3 +15,7 @@ form {
 .card {
   margin: 0 auto;
 }
+
+.byline {
+  text-align: center;
+}
